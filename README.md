@@ -74,10 +74,14 @@ AOA-PBLE2-Dijkstra-Campus-Shortest-Route/
 ▶️ How to Run
 
 Compile
-gcc campus_shortest_route.c -o campus_shortest_route
+gcc campus_shortest_route.cpp -o campus_shortest_route
+
 Run on Windows
+
 campus_shortest_route.exe
+
 Run on Linux/macOS
+
 ./campus_shortest_route
 
 🎓 PBLE Information
